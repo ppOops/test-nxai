@@ -1,0 +1,9 @@
+# NXAI
+
+> NXAI delivers global communications and AI-powered customer engagement solutions for growing businesses.
+
+## Content
+
+- [Cookie Policy](https://ppOops.github.io/test-nxai/cookie-policy)
+- [Privacy Policy](https://ppOops.github.io/test-nxai/privacy-policy)
+- [Terms Services](https://ppOops.github.io/test-nxai/terms-services)
