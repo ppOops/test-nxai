@@ -1,0 +1,1 @@
+import{p as s}from"./QjvxqVEX.js";const o=s("/images/join-us/position.svg"),e=s("/images/join-us/responsibility.svg"),t=[{slug:"ka-business-development",key:"kaBusinessDevelopment",location:"singapore",department:"salesMarketing"}];export{o as _,e as a,t as p};

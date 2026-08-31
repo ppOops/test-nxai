@@ -1,0 +1,1 @@
+import{_ as t}from"./DAUSUtCm.js";import{_ as o}from"./DlAUqK2U.js";import{E as r,o as c}from"./QjvxqVEX.js";import"./CNY2fg0R.js";import"./G8W7HDdp.js";const n={};function s(m,_){const e=t;return c(),r(e,{document:"terms-services","title-key":"legal.terms","description-key":"legal.termsDescription"})}const u=o(n,[["render",s]]);export{u as default};
