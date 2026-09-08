@@ -1,9 +1,18 @@
-# NXAI
+# NXAI Website (Test)
 
 > NXAI delivers global communications and AI-powered customer engagement solutions for growing businesses.
 
 ## Content
 
 - [NXAI Group Cookie Policy](https://ppOops.github.io/test-nxai/cookie-policy): This Cookie Policy explains how NXCLOUD ASIA PTE. LTD., GLORY COMMUNICATIONS PTE. LTD., NX COMMUNICATIONS PTE. LTD., GLORY TECHNOLOGY (H.K) GROUP LIMITED, NXCLOUD B.V., and CONG TY TNHH NXCLOUD COMMUNICATIONS (together, "NXAI", "we", "us", or "our") uses Cookie in connection with our Website and all products and services that contain or refer to this Cookie Policy (collectively "Services").
+- [Política de cookies del Grupo NXAI](https://ppOops.github.io/test-nxai/es/cookie-policy): Esta Política de cookies explica cómo NXCLOUD ASIA PTE. LTD., GLORY COMMUNICATIONS PTE. LTD., NX COMMUNICATIONS PTE. LTD., GLORY TECHNOLOGY (H.K) GROUP LIMITED, NXCLOUD B.V. y CONG TY TNHH NXCLOUD COMMUNICATIONS (en conjunto, "NXAI", "nosotros" o "nuestro") utiliza cookies en relación con nuestro sitio web y todos los productos y servicios que contienen o hacen referencia a esta Política de cookies (en conjunto, los "Servicios").
+- [Política de privacidad del Grupo NXAI](https://ppOops.github.io/test-nxai/es/privacy-policy)
+- [Términos de servicio del Grupo NXAI](https://ppOops.github.io/test-nxai/es/terms-services)
 - [NXAI Group Privacy Policy](https://ppOops.github.io/test-nxai/privacy-policy)
+- [Política de Cookies do Grupo NXAI](https://ppOops.github.io/test-nxai/pt/cookie-policy): Esta Política de Cookies explica como a NXCLOUD ASIA PTE. LTD., a GLORY COMMUNICATIONS PTE. LTD., a NX COMMUNICATIONS PTE. LTD., a GLORY TECHNOLOGY (H.K) GROUP LIMITED, a NXCLOUD B.V. e a CONG TY TNHH NXCLOUD COMMUNICATIONS (em conjunto, "NXAI", "nós" ou "nosso") utiliza cookies em ligação com o nosso Website e todos os produtos e serviços que contenham ou façam referência a esta Política de Cookies (em conjunto, os "Serviços").
+- [Política de Privacidade do Grupo NXAI](https://ppOops.github.io/test-nxai/pt/privacy-policy)
+- [Termos de Serviço do Grupo NXAI](https://ppOops.github.io/test-nxai/pt/terms-services)
 - [NXAI Group Terms of Service](https://ppOops.github.io/test-nxai/terms-services)
+- [NXAI 集团 Cookie 政策](https://ppOops.github.io/test-nxai/zh/cookie-policy): 本 Cookie 政策说明 NXCLOUD ASIA PTE. LTD.、GLORY COMMUNICATIONS PTE. LTD.、NX COMMUNICATIONS PTE. LTD.、GLORY TECHNOLOGY (H.K) GROUP LIMITED、NXCLOUD B.V. 及 CONG TY TNHH NXCLOUD COMMUNICATIONS（合称"NXAI"、"我们"）如何在我们的网站，以及包含或提及本 Cookie 政策的所有产品和服务（统称"服务"）中使用 Cookie。
+- [NXAI 集团隐私政策](https://ppOops.github.io/test-nxai/zh/privacy-policy)
+- [NXAI 集团服务条款](https://ppOops.github.io/test-nxai/zh/terms-services)
