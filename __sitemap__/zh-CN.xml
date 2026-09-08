@@ -34,11 +34,11 @@
     </url>
     <url>
         <loc>https://ppOops.github.io/test-nxai/test-nxai/zh/about</loc>
-        <xhtml:link rel="alternate" href="https://ppOops.github.io/test-nxai/test-nxai/es/about" hreflang="es-ES" />
-        <xhtml:link rel="alternate" href="https://ppOops.github.io/test-nxai/test-nxai/pt/about" hreflang="pt-PT" />
         <xhtml:link rel="alternate" href="https://ppOops.github.io/test-nxai/test-nxai/about" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://ppOops.github.io/test-nxai/test-nxai/about" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://ppOops.github.io/test-nxai/test-nxai/es/about" hreflang="es-ES" />
         <xhtml:link rel="alternate" href="https://ppOops.github.io/test-nxai/test-nxai/zh/about" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://ppOops.github.io/test-nxai/test-nxai/pt/about" hreflang="pt-PT" />
         <image:image>
             <image:loc>https://ppOops.github.io/test-nxai/images/about/vedio.jpg</image:loc>
         </image:image>
@@ -62,8 +62,8 @@
         <loc>https://ppOops.github.io/test-nxai/test-nxai/zh/contact-us</loc>
         <xhtml:link rel="alternate" href="https://ppOops.github.io/test-nxai/test-nxai/contact-us" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://ppOops.github.io/test-nxai/test-nxai/contact-us" hreflang="en-US" />
-        <xhtml:link rel="alternate" href="https://ppOops.github.io/test-nxai/test-nxai/zh/contact-us" hreflang="zh-CN" />
         <xhtml:link rel="alternate" href="https://ppOops.github.io/test-nxai/test-nxai/es/contact-us" hreflang="es-ES" />
+        <xhtml:link rel="alternate" href="https://ppOops.github.io/test-nxai/test-nxai/zh/contact-us" hreflang="zh-CN" />
         <xhtml:link rel="alternate" href="https://ppOops.github.io/test-nxai/test-nxai/pt/contact-us" hreflang="pt-PT" />
         <image:image>
             <image:loc>https://ppOops.github.io/test-nxai/images/contact-us/email.svg</image:loc>
@@ -94,9 +94,6 @@
         <xhtml:link rel="alternate" href="https://ppOops.github.io/test-nxai/test-nxai/es/join-us" hreflang="es-ES" />
         <xhtml:link rel="alternate" href="https://ppOops.github.io/test-nxai/test-nxai/pt/join-us" hreflang="pt-PT" />
         <image:image>
-            <image:loc>https://ppOops.github.io/test-nxai/images/arrow-up.svg</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://ppOops.github.io/test-nxai/images/join-us/position.svg</image:loc>
         </image:image>
         <image:image>
@@ -105,17 +102,17 @@
     </url>
     <url>
         <loc>https://ppOops.github.io/test-nxai/test-nxai/zh/privacy-policy</loc>
-        <xhtml:link rel="alternate" href="https://ppOops.github.io/test-nxai/test-nxai/zh/privacy-policy" hreflang="zh-CN" />
         <xhtml:link rel="alternate" href="https://ppOops.github.io/test-nxai/test-nxai/privacy-policy" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://ppOops.github.io/test-nxai/test-nxai/privacy-policy" hreflang="en-US" />
-        <xhtml:link rel="alternate" href="https://ppOops.github.io/test-nxai/test-nxai/es/privacy-policy" hreflang="es-ES" />
+        <xhtml:link rel="alternate" href="https://ppOops.github.io/test-nxai/test-nxai/zh/privacy-policy" hreflang="zh-CN" />
         <xhtml:link rel="alternate" href="https://ppOops.github.io/test-nxai/test-nxai/pt/privacy-policy" hreflang="pt-PT" />
+        <xhtml:link rel="alternate" href="https://ppOops.github.io/test-nxai/test-nxai/es/privacy-policy" hreflang="es-ES" />
     </url>
     <url>
         <loc>https://ppOops.github.io/test-nxai/test-nxai/zh/solutions</loc>
+        <xhtml:link rel="alternate" href="https://ppOops.github.io/test-nxai/test-nxai/zh/solutions" hreflang="zh-CN" />
         <xhtml:link rel="alternate" href="https://ppOops.github.io/test-nxai/test-nxai/solutions" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://ppOops.github.io/test-nxai/test-nxai/solutions" hreflang="en-US" />
-        <xhtml:link rel="alternate" href="https://ppOops.github.io/test-nxai/test-nxai/zh/solutions" hreflang="zh-CN" />
         <xhtml:link rel="alternate" href="https://ppOops.github.io/test-nxai/test-nxai/es/solutions" hreflang="es-ES" />
         <xhtml:link rel="alternate" href="https://ppOops.github.io/test-nxai/test-nxai/pt/solutions" hreflang="pt-PT" />
         <image:image>
@@ -133,11 +130,11 @@
     </url>
     <url>
         <loc>https://ppOops.github.io/test-nxai/test-nxai/zh/terms-of-service</loc>
-        <xhtml:link rel="alternate" href="https://ppOops.github.io/test-nxai/test-nxai/zh/terms-of-service" hreflang="zh-CN" />
-        <xhtml:link rel="alternate" href="https://ppOops.github.io/test-nxai/test-nxai/terms-of-service" hreflang="x-default" />
-        <xhtml:link rel="alternate" href="https://ppOops.github.io/test-nxai/test-nxai/terms-of-service" hreflang="en-US" />
         <xhtml:link rel="alternate" href="https://ppOops.github.io/test-nxai/test-nxai/es/terms-of-service" hreflang="es-ES" />
         <xhtml:link rel="alternate" href="https://ppOops.github.io/test-nxai/test-nxai/pt/terms-of-service" hreflang="pt-PT" />
+        <xhtml:link rel="alternate" href="https://ppOops.github.io/test-nxai/test-nxai/terms-of-service" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://ppOops.github.io/test-nxai/test-nxai/terms-of-service" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://ppOops.github.io/test-nxai/test-nxai/zh/terms-of-service" hreflang="zh-CN" />
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v7.5.0 at 2026-09-01T10:19:02.747Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v7.5.0 at 2026-09-08T01:12:43.862Z -->
