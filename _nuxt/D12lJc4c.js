@@ -1,0 +1,1 @@
+import{_ as c}from"./DLlSyTtE.js";import{_ as e}from"./DlAUqK2U.js";import{M as t,o as n}from"./ouRuaIT2.js";import"./BYgaHepu.js";const r={};function _(m,s){const o=c;return n(),t(o,{document:"cookie-policy"})}const l=e(r,[["render",_]]);export{l as default};
