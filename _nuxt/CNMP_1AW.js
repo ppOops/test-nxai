@@ -1,0 +1,1 @@
+import{_ as c}from"./CAWIe4vI.js";import{_ as t}from"./DlAUqK2U.js";import{N as r,o as e}from"./CmHeClPM.js";import"./ClTbe6JT.js";const n={};function _(a,m){const o=c;return e(),r(o,{document:"privacy-policy"})}const l=t(n,[["render",_]]);export{l as default};
