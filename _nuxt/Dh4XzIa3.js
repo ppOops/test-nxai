@@ -1,1 +1,0 @@
-import{_ as o}from"./CAWIe4vI.js";import{_ as t}from"./DlAUqK2U.js";import{N as r,o as c}from"./CmHeClPM.js";import"./ClTbe6JT.js";const n={};function _(s,m){const e=o;return c(),r(e,{document:"terms-services"})}const u=t(n,[["render",_]]);export{u as default};
